@@ -1,1 +1,1 @@
-/home/akshit/storage/padhai/ossu/nand2tetris/jack-compiler/target/debug/jack-compiler: /home/akshit/storage/padhai/ossu/nand2tetris/jack-compiler/src/main.rs /home/akshit/storage/padhai/ossu/nand2tetris/jack-compiler/src/tokenizer.rs
+/home/akshit/storage/padhai/ossu/nand2tetris/jack-compiler/target/debug/jack-compiler: /home/akshit/storage/padhai/ossu/nand2tetris/jack-compiler/src/main.rs /home/akshit/storage/padhai/ossu/nand2tetris/jack-compiler/src/parser.rs /home/akshit/storage/padhai/ossu/nand2tetris/jack-compiler/src/tokenizer.rs
